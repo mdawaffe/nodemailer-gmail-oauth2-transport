@@ -16,7 +16,7 @@ Config
 		"CLIENT_ID": "...",
 		"CLIENT_SECRET": "...",
 		"REDIRECT_URL": "urn:ietf:wg:oauth:2.0:oob"
-		"RESTRICT_AUTH_DOMAIN" : "my-google-apps-domain.com",
+		"RESTRICT_AUTH_DOMAIN" : "my-google-apps-domain.com", // optional
 	}
 }
 ```
