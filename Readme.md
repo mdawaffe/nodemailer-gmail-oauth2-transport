@@ -3,7 +3,7 @@ Gmail OAuth2 Transport for Nodemailer
 
 Nodemailer Transport for Sending Email or Creating Drafts with Gmail via OAuth2 Credentials.
 
-Includes authentication example and bin script.
+For authentication example and bin script, see [`send-gmail`](https://github.com/mdawaffe/send-gmail).
 
 Config
 ------
